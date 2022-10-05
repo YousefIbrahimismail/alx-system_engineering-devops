@@ -1,1 +1,1 @@
-This is a practice project on learning Shell and Bash
+This is a practice project on learning Shell and Bash.
